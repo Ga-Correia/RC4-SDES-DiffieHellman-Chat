@@ -1,6 +1,6 @@
 # Instruções para executar o arquivo:
 
-   * Rodar o arquivo server.py em apenas UM terminal.
+   * Rodar o arquivo server.py em apenas um terminal.
         Fornecer o IP do servidor (EX: 127.0.0.1 - Localhost)
 
    * Rodar o arquivo client.py em um ou mais terminais.
